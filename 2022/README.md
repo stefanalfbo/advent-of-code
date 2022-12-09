@@ -11,4 +11,11 @@ npm run start -- --day=1
 ```
 
 ## Day 2
+Read the problem definition [here](src/day02.md) and the solution [here](src/day02.ts). To run the program:
+
+```bash
+npm run build
+npm run start -- --day=2
+```
+## Day 3...
 TBD
