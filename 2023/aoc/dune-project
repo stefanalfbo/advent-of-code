@@ -11,14 +11,14 @@
 
 (maintainers "Stefan Alfbo")
 
-(license LICENSE)
+(license MIT)
 
 (documentation https://github.com/stefanalfbo/advent-of-code/)
 
 (package
  (name aoc)
  (synopsis "2023 Advent of Code solutions")
- (description "2023 Advent of Code solutions")
+ (description "2023 Advent of Code solutions in OCaml")
  (depends ocaml dune)
  (tags
   (topics "to describe" your project)))
